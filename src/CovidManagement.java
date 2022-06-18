@@ -19,7 +19,7 @@ public class CovidManagement {
     {
         Connection con = null;
         try{
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc?user=root&password=vashz151");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc?user=root&password="");
         }
         catch(Exception e){
             JOptionPane.showMessageDialog(null, e);
