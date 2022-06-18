@@ -27,5 +27,5 @@ An admin having a password can login to the respective hospital/vaccine centre a
 This project was developed with Netbeans Apache and the database application used was MySQL. 
 The connection was possible with the help of JDBC connector.
 
-# Database ER
+# Database ER Diagram
 ![image](https://user-images.githubusercontent.com/96206852/174431829-cc9ce0b0-7145-4f70-91f8-ddb0a6bfa027.png)
